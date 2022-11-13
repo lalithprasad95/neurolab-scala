@@ -1,0 +1,10 @@
+Boolean         true or false
+Byte            8 bit signed value
+Short           16 bit signed value 
+Char            16 bit unsigned unicode character
+Int             32 bit signed value
+Long            64 bit signed value
+Float           32 bit IEEE 754 single-precision Float
+Double          64 bit IEEE 754 Double-precision Float
+String          A sequence of characters
+
